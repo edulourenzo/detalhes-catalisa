@@ -12,3 +12,4 @@ Para contribuir com o aumento da diversidade na área e corresponder com o nosso
 Uma vez que acreditamos que times diversos constroem soluções de impacto, ricas e inclusivas.
 
 _Obs: Sempre faça pull antes de fazer um merge._
+_Obs: Antes de aceitar pull request, revise o pull e resolva os conflitos._
